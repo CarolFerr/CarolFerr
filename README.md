@@ -2,7 +2,7 @@
 # 👋🏾 Oi! Um Pouco Sobre Mim!🎧
 
 <div align="center">
-  <img height="395em" width= "1500px" src="./Github-profile-images/1.png"/>
+  <img height="400em" width= "990em" src="./Github-profile-images/1.png"/>
 </div>
 
 <h3 align="center">
@@ -26,7 +26,7 @@
 
 <p>Sou estudante de Ciência da Computação no UNIVEM e apaixonada por criar soluções inovadoras que impactem positivamente a vida das pessoas. Ao longo da minha jornada, desenvolvi um portfólio diversificado, explorando tecnologias como Python, Java, Node.js, HTML, CSS, JavaScript, Vue.js, Pandas, NumPy e Flutter. Atualmente, estou focada em um perfil fullstack, com um olhar especial para o machine learning, que acredito ser fundamental para construir um futuro mais inteligente e sustentável.
 
-Meus projetos pessoais, como [landing page dos tenis], demonstram minha capacidade de transformar ideias em realidade. Sou proativa e busco constantemente me aprimorar, participando de bootcamps e cursos online.
+Meus projetos pessoais, como [Slider Nike Sneakers](https://github.com/CarolFerr/Projetos_Front-End/tree/main/Intermediario/sliderNikeSneakers), demonstram minha capacidade de transformar ideias em realidade aprimorando minhas habilidades em HTML, CSS e JavaScript, além de homenagear e trazer luz a comunidade indígena do Brasil. Sou proativa e busco constantemente me aprimorar, participando de bootcamps e cursos online.
 
 Acredito que minhas habilidades técnicas e minha paixão por tecnologia me permitem contribuir significativamente para o desenvolvimento de soluções inovadoras em áreas como educação, meio ambiente, saúde, economia e etc. E meu objetivo é trabalhar em uma grande empresa que me permita aplicar meus conhecimentos em projetos desafiadores e com impacto social.</p>
 
