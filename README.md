@@ -32,7 +32,7 @@ Acredito que minhas habilidades técnicas e minha paixão por tecnologia me perm
 
 ###
 
-<p align="left">Minha jornada vem se firmando em um perfil fullstack com uma forte tendência em Machine Learning e ...<br><br>- 🔭 Eu estou buscando me inserir no mercado de trabalho de tecnologia, seja por meio de um cargo de trainee ou junior.<br>- 📚 Gosto de desenvolver minhas habilidades continuamente, sejam elas técnicas ou comportamentais, aprendendo diferentes tecnologias, pois acredito que um profissional da área de tecnologia precisa ser versátil.<br>- ⚡ No meu tempo livre gosto de jogar The Sims, assistir filmes, séries e ler.</p><p>- 🎯Meu objetivo é crescer na área de tecnologia como uma engenheira de machine learning.<p>- 📖 Livro e filme favoritos: Senhor dos Anéis.<p>- 📺 Fã de Arcane.
+<p align="left">Minha jornada vem se firmando em um perfil fullstack com uma forte tendência em Machine Learning e ...<br><br>- 🔭 Eu estou buscando me inserir no mercado de trabalho de tecnologia, seja por meio de um cargo de trainee ou junior.<br>- 📚 Gosto de desenvolver minhas habilidades continuamente, sejam elas técnicas ou comportamentais, aprendendo diferentes tecnologias, pois acredito que um profissional da área de tecnologia precisa ser versátil.<br>- ⚡ No meu tempo livre gosto de jogar The Sims, assistir filmes, séries e ler.<br>- 🎯Meu objetivo é crescer na área de tecnologia como uma engenheira de machine learning.<br>- 📖 Livro e filme favoritos: Senhor dos Anéis.<br>- 📺 Fã de Arcane.
 
 ###
 
