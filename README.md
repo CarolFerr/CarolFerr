@@ -2,7 +2,7 @@
 # 👋🏾 Oi! Um Pouco Sobre Mim!🎧
 
 <div align="center">
-  <img height="350em" src="./Github-profile-images/1.png"/>
+  <img height="395em" width= "1500px" src="./Github-profile-images/1.png"/>
 </div>
 
 <h3 align="center">
