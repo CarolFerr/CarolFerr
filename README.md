@@ -1,9 +1,7 @@
 
-# 👋🏾 Oi! Um Pouco Sobre Mim!🎧
+# 👋🏾 Oi! Um Pouco Sobre Mim!📖
 
-<div align="center">
-  <img height="400em" width= "990em" src="./Github-profile-images/1.png"/>
-</div>
+![Header](https://github.com/CarolFerr/CarolFerr/blob/main/Github-profile-images/github-header-image.png)
 
 <h3 align="center">
    • Science Computer Student •
