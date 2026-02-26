@@ -4,7 +4,7 @@
 <h3 align="center">
    • Numero de Visitantes •
 
-   ![Visitaram](https://komarev.com/ghpvc/?username=CarolFerr&color=red)
+   ![Visitaram](https://komarev.com/ghpvc/?username=CarolFerr&color=blue)
 </h3>
 
 
