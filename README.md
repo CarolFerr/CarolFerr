@@ -1,4 +1,4 @@
-![Header](https://github.com/CarolFerr/CarolFerr/blob/main/Github-profile-images/github-header-image.png)
+![Header](https://github.com/CarolFerr/CarolFerr/blob/main/Github-profile-images/github-header-banner.png)
 
 
 <h3 align="center">
