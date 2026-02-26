@@ -18,19 +18,35 @@
 
 # 👩🏾‍💻 Sobre Mim
 
-<p>Sou estudante de Ciência da Computação no UNIVEM com foco em Engenharia de Machine Learning. E como acredito que a integração de Machine Learning nos sistemas é fundamental para a construção de um futuro mais inteligente preciso estar envolvida com todo o processo da engenharia de software e da área de negócio, sendo assim venho desenvolvendo um portfólio diversificado tanto dentro da área de front-end e back-end, além da área de ciência de dados para sugerir melhores soluções quanto a integração de machine learning dentro dos diversos tipos de sistemas.
+<p>
+🎓 Bacharela em Ciência da Computação | Desenvolvedora Backend Java  
+   
+💡 Foco em Sistemas Inteligentes e Integração com IA  
 
-Aqui você poderá ver o meu desenvolvimento em diferentes tipos de tecnologias, além da área de machine learning, demonstrando minhas habilidades técnicas adquiridas não somente no curso de Bacharelado em Ciência da Computação bem como em Bootcamps e Cursos Online.
+Atuo como desenvolvedora backend com Java e Spring Boot, trabalhando na construção de APIs robustas, seguras e orientadas a boas práticas de engenharia de software.
 
-Acredito que minhas habilidades técnicas e minha paixão por tecnologia me permitem contribuir significativamente para o desenvolvimento de soluções inovadoras em áreas como educação, meio ambiente, saúde, economia e etc. E meu objetivo é trabalhar em uma grande empresa que me permita aplicar esses conhecimentos em projetos desafiadores e com impacto social.</p>
+Tenho direcionado minha carreira para a integração de Inteligência Artificial e Machine Learning em sistemas corporativos, buscando unir backend, dados e regras de negócio para criar soluções mais inteligentes e orientadas a decisão.
+
+Possuo experiência e estudos em:
+
+• Desenvolvimento backend (Java, Spring Boot)  
+• APIs REST e segurança  
+• Fundamentos de Ciência de Dados e Machine Learning  
+• Integração de IA em aplicações  
+
+Acredito que o futuro do software está na convergência entre engenharia, dados e estratégia de negócio. Meu objetivo é contribuir em projetos de alto impacto, aplicando tecnologia de forma inovadora e responsável.</p>
 
 Como uma grande apaixonada pela tecnologia eu ...
-- 🔭 Eu estou buscando me inserir no mercado de trabalho de tecnologia.
 - 📚 Gosto de desenvolver minhas habilidades continuamente, sejam elas técnicas ou comportamentais, aprendendo diferentes tecnologias, pois acredito que um profissional da área de tecnologia precisa ser versátil.
 - ⚡No meu tempo livre gosto de jogar The Sims, assistir filmes, séries e ler.
-- 🎯Meu objetivo é crescer na área de tecnologia como uma engenheira de machine learning.
+- 🎯Meu objetivo é crescer na área de tecnologia com perfil capaz de galgar grandes posições.
 - 📖 Livro e filme favoritos: Senhor dos Anéis.
 - 📺 Fã de Arcane.
+- ✒️Frase que me guiam:
+   - "Fracassar é parte crucial do sucesso. Toda vez que você fracassa e se recupera, exercita perseverança que é a chave da vida. Sua força está na habilidade de se recompor." - Michelle Obama"
+   - “O único lugar onde o sucesso vem antes do trabalho é no dicionário.” - Vitorino Nemésio
+   - "Eu acredito que às vezes são as pessoas que ninguém espera nada que fazem as coisas que ninguém consegue imaginar." - Alan Turin
+   - “You may write me down in history.With your bitter, twisted lies. You may trod me in the very dirt. But still, like dust, I'll rise.” - Maya Angelou 
 
 
 # 🛠 Linguagens e Ferramentas
